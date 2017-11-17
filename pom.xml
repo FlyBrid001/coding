@@ -12,5 +12,6 @@
         <module>AnswerMachine</module>
         <module>SalesTax</module>
         <module>ParkingCharge</module>
+        <module>ConwayGameOfLife</module>
     </modules>
 </project>
